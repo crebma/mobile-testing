@@ -1,0 +1,50 @@
+# iOS:
+.DS_Store
+.idea
+.iml
+Pods
+xcuserdata/
+*.xcworkspace
+
+# Android:
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+proguard/
+bin/
+gen/
+target/
+.apt_generated/
+target/
+gen-external-apklibs/
+
+# Local configuration file (sdk path, etc)
+workspace.xml
+.factorypath
+.classpath
+.project
+.settings/
+local.properties
+.DS_Store*
+
+#Android Studio
+.idea/workspace.xml
+.idea/libraries/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+.idea
